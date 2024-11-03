@@ -1,0 +1,6 @@
+flask  # Web framework
+pandas  # Data analysis library
+openai  # OpenAI API integration
+streamlit  # Streamlit app
+requests  # HTTP requests
+Pillow  # For Image from PIL

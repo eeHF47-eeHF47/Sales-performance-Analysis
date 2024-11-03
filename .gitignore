@@ -1,0 +1,3 @@
+# Ignore environment and API key files
+.env
+api_key.txt
